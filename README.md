@@ -1,5 +1,5 @@
 Here's a `README.md` file for your `IDEMyOK` project, incorporating your specifications.
-![IDE](./images/logon.png)
+![IDEMyOK](./images/logon.png)
 ```markdown
 # IDEMyOK - Desktop and Development Environment
 
